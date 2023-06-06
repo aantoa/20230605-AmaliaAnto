@@ -1,0 +1,15 @@
+Comandos:
+- git clone
+- touch comando.txt main.js index.html 
+- git add .
+- git commit -m "commit 01 de amaliaAnto"
+- git push origin main
+- git checkout -b feature
+- mkdir Hardware Software SeguridadInformatica
+- touch Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resumen.txt
+- git add .
+- git commit -m "commit 02 de amaliaAnto"
+- git push origin feature
+- git checkout main
+- mv main.js resumenHardware.txt
+- mv index.html resumenSoftware.txt
